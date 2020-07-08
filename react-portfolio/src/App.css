@@ -1,38 +1,76 @@
-.App {
-  text-align: center;
+html {
+  height: 100%;
+  background-color: cadetblue!important;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card-div {
+  margin-top: 2.5rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card {
+  margin: 1rem 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.profile-contact, h3 {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.profile-image {
+  height: 22rem;
+}
+
+h2 {
   color: white;
+  padding: 0px 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar {
+  color: white !important;
+  background-color: cadetblue!important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.resume-link {
+  font-size: 22px;
+  padding-left: 30px;
+}
+
+.fas {
+  padding-right: 30px;
+}
+
+html {
+  height: 100%;
+  background-color: white;
+}
+
+.row {
+  height: 100%;
+  padding-top: 33px;
+  margin-left: 15px !important;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: cadetblue!important;
+}
+
+.d-block {
+  display: block!important;
+  width: 20% !important;
+  margin: auto !important;
+}
+
+img {
+  width: 413px;
+  height: 20%;
+  margin-bottom: 1rem;
+}
+
+footer {
+  background-color: cadetblue!important;
+  color: white;
+  text-align: center;
+  padding: 10px;
 }
