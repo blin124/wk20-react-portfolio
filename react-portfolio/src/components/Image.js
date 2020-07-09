@@ -3,6 +3,8 @@ import React from 'react';
 import czhou1 from '../images/czhou.jpg';
 import czhou2 from '../images/czhou2.jpg';
 
+import '../App.css';
+
 function Image() {
     return(
         <div className="jumbotron">
@@ -23,14 +25,14 @@ function Image() {
                     <div className="carousel-item active">
                     <img
                         src={czhou1}
-                        className="d-block w-100 fixed"
+                        className="d-block fixed"
                         alt="portrait-one"
                     />
                     </div>
                     <div className="carousel-item">
                     <img
                         src={czhou2}
-                        className="d-block w-100 fixed"
+                        className="d-block fixed"
                         alt="portrait-two"
                     />
                     </div>

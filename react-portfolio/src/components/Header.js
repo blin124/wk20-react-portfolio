@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Resume from '../routes/resume/Resume.pdf';
 
 class Navbar extends Component {
 
@@ -36,7 +37,7 @@ class Navbar extends Component {
                             </a>
                             <a 
                                 className="nav-item nav-link" 
-                                href="/resume"
+                                href={Resume}
                             > Resume
                             </a>
                         </div>

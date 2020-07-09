@@ -8,12 +8,11 @@ function Contact() {
                 <li>Phone: +61 422 883 953</li>
                 <li>
                 Github:
-                <a href="https://github.com/blin124">https://github.com/blin124</a>
+                <a href="https://github.com/blin124"> https://github.com/blin124</a>
                 </li>
                 <li>
                 LinkedIn:
-                <a href="https://www.linkedin.com/in/cynthia-zhou-37b56a1a1/">
-                    https://www.linkedin.com/in/cynthia-zhou-37b56a1a1/
+                <a href="https://www.linkedin.com/in/cynthia-zhou-37b56a1a1/"> https://www.linkedin.com/in/cynthia-zhou-37b56a1a1/
                 </a>
                 </li>
             </ul>
